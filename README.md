@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <div class="navbar">
-            <a href="index.html"><img src="images/image2.png" class="logo"></a>
+            <a href="index.html"><img src="image2.png" class="logo"></a>
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>
@@ -25,7 +25,7 @@
             </div>
             <div class="right-col">
                 <p>Click here to order</p>
-                <a href="https://www.starbucks.ph/menu"><img src="images/image3.png" id="icon"></a>
+                <a href="https://www.starbucks.ph/menu"><img src="image3.png" id="icon"></a>
             </div>
         </div>
     </div>
